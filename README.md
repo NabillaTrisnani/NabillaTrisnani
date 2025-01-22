@@ -6,7 +6,7 @@ Frontend Developer and UI/UX enthusiast
 
 * 🌍  I'm based in Malang, East Java, Indonesia
 * ✉️  You can contact me at [nabillatrisnani29@gmail.com](mailto:nabillatrisnani29@gmail.com)
-* 🧠  I'm learning Redux and Vue.js
+* 🧠  I'm learning Redux
 
 ### Skills
 
